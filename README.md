@@ -48,7 +48,7 @@ Run `generate_dataset.ipynb` first, then `analyze_dataset.ipynb`.
 ## Figures
 ![Waste by meal](img/fig2_meal.png)
 ![Heatmap](img/fig6_heatmap.png)
-![Four kinds of meals](img/fig7_quadrant.png)
+![Levers](img/fig7_levers.png)
 
 ## Limitations
 - The data is simulated, so findings are only as good as the model's assumptions.
