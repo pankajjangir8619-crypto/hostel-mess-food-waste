@@ -56,4 +56,5 @@ Run `generate_dataset.ipynb` first, then `analyze_dataset.ipynb`.
 - The waste levels (40% and 50%) and the segment cut-offs are my own choices.
 
 ## Author
-[Tumhara naam] | [Branch], [College name]
+Pankaj | Data Science, 
+B.K Birla Institue of Engineering and Technology ,Pilani
